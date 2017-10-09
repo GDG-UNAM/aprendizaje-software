@@ -16,5 +16,12 @@ Una ves que hayamos creado nuestro repositorio seguiremos una serie de pasos. :o
   
 - Imprimir un "Hola Mundo" con javascript en HTML
 
+9/octubre/2017
 
+4.- Has una función en javascript que recorra la lista y pinte cada uno de los elementos de la lista con su color      correspondiente (La función deberá ser generada desde un archivo javascript y sera pintada en un archivo .html).
 
+    lista = [azul, rojo, verde, gris, negro]
+    
+5.- Hacer que un boton html cambie de color al hacer click (ver propiedad onclick de html.
+
+6.- Hacer que el mismo boton a parte de que cambie de color cambie de tamaño aleatorio (ver propiedades css que se pueden modificar desde js).  :shipit:
